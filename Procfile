@@ -1,1 +1,1 @@
-web: gunicorn routes:app
+web: gunicorn lab2 routes:app
